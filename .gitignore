@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+# MAC junk
+.DS_Store
+
 # C extensions
 *.so
 
