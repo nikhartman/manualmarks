@@ -1,0 +1,6 @@
+manualmarks.py
+setup.py
+manualmarks.egg-info/PKG-INFO
+manualmarks.egg-info/SOURCES.txt
+manualmarks.egg-info/dependency_links.txt
+manualmarks.egg-info/top_level.txt
